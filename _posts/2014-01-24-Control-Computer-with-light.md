@@ -20,9 +20,8 @@ To overcome this issue I decided to take a few sample points at the beginning of
 Due to the very small variations in light intensity, I decided the values need to be increased and I decided to increase them exponentially that way the hand of the user does not need to move so much but it could still reach the corners of the screen when controlling the mouse.
 
 
-This is a video which demonstrates the product still in its early stages.
-
-i<iframe width="420" height="315" src="https://youtu.be/2M5YJC7XHHM" frameborder="0" allowfullscreen></iframe>
+This is a video which demonstrates the prototype in its early stages.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2M5YJC7XHHM" frameborder="0" allowfullscreen></iframe>
 
 The python code is bellow, to make it work with the Arduino it needs to send the signal from the two sensors as one charString values separated by the |. The rest is done by the Python script
 
