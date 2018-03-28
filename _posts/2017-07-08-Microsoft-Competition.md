@@ -3,7 +3,7 @@ layout: post
 title:  "Microsoft Indoor competition 2017"
 date:   2017-07-08
 excerpt: "Won first place at Microsoft Indoor competition in 2017"
-project: false
+project: true
 tag:
 - project
 ---
